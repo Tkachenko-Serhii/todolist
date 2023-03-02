@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tkachenko-Serhii/todolist/static/css/main.e6c13ad2.css",
+    "main.js": "/Tkachenko-Serhii/todolist/static/js/main.54277093.js",
+    "index.html": "/Tkachenko-Serhii/todolist/index.html",
+    "main.e6c13ad2.css.map": "/Tkachenko-Serhii/todolist/static/css/main.e6c13ad2.css.map",
+    "main.54277093.js.map": "/Tkachenko-Serhii/todolist/static/js/main.54277093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54277093.js"
+  ]
+}
