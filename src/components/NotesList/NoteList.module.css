@@ -1,0 +1,14 @@
+.item {
+    display: flex;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background-color: #5864cd;
+    margin-bottom: 10px;
+}
+
+.title {
+    width: 25%;
+    padding: 10px 0;
+    text-align: center;
+}
